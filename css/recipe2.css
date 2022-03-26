@@ -1,0 +1,106 @@
+body{
+    background: #E0ECF5;
+    color: #2B303B  ;
+}
+#main-head{
+    background-color: #9CA9E8;
+    padding: 0px 20px;
+    margin: 0px 600px 10px 600px;
+    border-style: double dashed;
+    border-width: 2px 1px;
+    border-radius: 30px;
+}
+#main-head h1{
+    text-align: center;
+    font-size: 60px;
+    font-family: monospace;
+    font-weight: 900;
+}
+#calandimg{
+    display: inline-flex;
+    margin-left: 100px;
+}
+#chickenbir{
+    height: 400px;
+    width: 450px;
+    border-style: solid dashed;
+    border-radius: 30px;
+    border-width: 1px;
+    margin-left: 400px;
+}
+#ntri{
+    background-color: #9CA9E8;
+    margin-left: 50px;
+    border-style: double dashed;
+    border-width: 2px 1px;
+    border-radius: 30px;
+    width: 450px;
+    height: 400px;
+}
+#ntri h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 2px 0px 1px 20px;
+    font-size: 25px;
+    text-decoration: underline;
+} 
+#ntri ul{
+    font-family: cursive;
+    font-size: 25px;
+    list-style-type: square;
+    list-style-position: inside;
+    line-height: 35px;
+}
+
+#items{
+    background-color: #9CA9E8;
+    width: max-content;
+    margin-left: 520px;
+    border-style: solid dotted;
+    border-width: 2px 1px;
+    border-radius: 25px;
+    margin-top: 10px;
+    
+}
+#items h3{
+    font-style: italic;
+    font-weight: 900;
+    font-family: sans-serif;
+    letter-spacing: 2px;    
+}
+#items ul{
+    font-family: cursive;
+    font-style: oblique;
+    list-style-position: inside;
+    list-style-type: disc;
+    font-size: larger;
+    font-weight: bold;
+    line-height: 35px;
+    
+}
+#prep{
+    background-color: aqua;
+    width: 1250px;
+    border-style: solid dashed;
+    border-color: #2B303B;
+    border-width: 2px 1px;
+    margin-top: 20px;
+    margin-left: 300px;
+    border-radius: 30px;
+    padding: 30px;
+}
+#prep p{
+    font-size: 20px;
+    font-family: cursive;
+    font-style: italic;
+    font-weight: 500;
+}
+#prep h3{
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: 900;
+    text-decoration: underline;
+}
+#prep h2{
+    font-size: 45px;
+    font-family: cursive;
+}
