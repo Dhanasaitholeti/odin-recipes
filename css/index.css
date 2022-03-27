@@ -1,0 +1,105 @@
+/* 6F7171 */
+body{
+    background: #011627;
+    color: #212738;
+}
+#heading{
+    background-color: #6F7171;
+    margin-left: 750px;
+    width: max-content;
+    text-align: center;
+    border-style: solid dashed;
+    border-width: 2px 1px;
+    border-radius: 30px;
+  
+}
+#heading h1{
+    font-size: 50px;
+    padding: 15px;
+}
+#ravada{
+    background-color: #033863;
+    margin-left: 650px;
+    margin-right: 650px;
+    margin-top: 50px;
+    border-radius: 40px;
+}
+#imgofvada{
+    /* margin-left: 690px; */
+     /* border-style: dashed;
+    border-width: 1px; */
+    margin-top: 30px;
+    height: 250px;
+    border-radius: 30px; 
+    padding-left: 9px; 
+    padding-bottom: 20px; 
+}
+#rava{
+    height: 25px;
+    width: 150px;
+    align-content: center;
+    margin-left: 200px;
+    margin-bottom: 20px;    
+}
+#ravada button{
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #212738;
+}
+#chicken{
+    background-color: #033863;
+    margin-left: 650px;
+    margin-right: 650px;
+    margin-top: 50px;
+    border-radius: 40px;
+}
+#imgofchick{
+    margin-top: 30px;
+    height: 250px;
+    border-radius: 30px; 
+    padding-left: 15px; 
+    padding-bottom: 20px; 
+    width: 550px;
+}
+#chick,
+#salmon
+{
+    height: 30px;
+    width: 150px;
+    align-content: center;
+    margin-left: 200px;
+    margin-bottom: 20px;
+}
+#chicken button,
+#salmonfish button
+{
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #212738;
+}
+#salmonfish{
+    background-color: #033863;
+    margin-left: 650px;
+    margin-right: 650px;
+    margin-top: 50px;
+    border-radius: 40px;
+}
+#imgofsalmon{
+    margin-top: 30px;
+    height: 250px;
+    border-radius: 30px; 
+    padding-left: 15px; 
+    padding-bottom: 20px; 
+    width: 550px;
+}
+
+.pas{
+    background-color: #6F7171;
+    height: 20px;
+    border-radius: 20px;
+    text-align: center;
+    color: #212730;
+    font-size: 17px;
+    font-family: monospace;
+    color: #212738;
+}
